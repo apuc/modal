@@ -1,0 +1,12 @@
+.form_box {
+    width: 60%;
+    margin: 50px auto;
+    border: 1px dashed grey;
+    padding: 15px;
+}
+
+.server_error {
+    display: block;
+    border: 1px dashed grey;
+    padding: 10px;
+}
